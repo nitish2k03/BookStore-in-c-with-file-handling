@@ -3,7 +3,7 @@
 
 Language Used : C
 
-
+Files used : data.bin & temp.bin
 
 OBJECTIVES OF THE PROJECT:
 The primary goal of book store management system is to handle all aspects of the store’s information. This application attempted to cover all operations that occur
@@ -25,5 +25,4 @@ stdio.h is a header file which has the important information to include the inpu
 It contains the functions of console input output. Example clrscr, getch.
 #include<string.h> - String function.
 The C string.h header file declares a set of functions to work strings.
-
 
